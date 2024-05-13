@@ -5,7 +5,7 @@
 You are working on a project that requires you to create a user service. Implement the Spring Authorization Server to authenticate users and generate JWT tokens. 
 
 ## Requirements
-1. Use Spring Authorization Server to create a user service using documentation: https://docs.spring.io/spring-authorization-server/reference/getting-started.html
+1. Use Spring Authorization Server to create a user service using documentation: [Spring Authorization Server](https://docs.spring.io/spring-authorization-server/reference/getting-started.html)
 2. Make the required changes to SecurityConfig.java to configure the Authorization Server.
 3. Add Postman application as a client with clientId: `oidc-client` and clientSecret: `secret` with the required scopes.
 4. Use appropriate redirect URIs to redirect the user to the client(Postman) after login.
