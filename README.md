@@ -1,4 +1,4 @@
-# User Service using Spring Authorization Server and JWT - In Memory
+# User Service using Spring Authorization Server and JWT (In Memory)
 
 ## Problem Statement
 
